@@ -16,7 +16,7 @@
 ## 🧑‍💻 Who I Am
 
 ```typescript
-const utsavChaudhari = {
+const utsavChaudhari =  {
   title: "CS Student",
   stack: ["Python", "HTML", "SQL"],
   launchedProjects: [], // 🚧 building — details coming soon
